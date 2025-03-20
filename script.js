@@ -34,3 +34,8 @@ function calcular(num1, num2) {
     }
 calcular(n1, n2);
 */
+
+while (i < 10) {
+    text += "The number is " + i;
+    i++;
+  }
