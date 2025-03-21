@@ -1,6 +1,7 @@
 
 /*
-Atv - 1
+Questão - N1
+
 console.log('hello world');
 let numero = prompt('Digite seu número');
 function verificarPar(numero){
@@ -14,6 +15,9 @@ verificarPar(numero);
 */
 
 /*
+Questão N2
+/*
+
 let n1 = parseFloat(prompt('Escreva n1:'))
 let n2 = parseFloat(prompt('Escreva n2:'))
 
@@ -34,9 +38,10 @@ function calcular(num1, num2) {
     }
 calcular(n1, n2);
 */
-
-
 /*
+Questão N3
+/*
+
 console.log("Contadora")
 let i = 1;
 
@@ -45,3 +50,5 @@ while (i <= 10) {
     i++;
  }
  */
+
+ 
