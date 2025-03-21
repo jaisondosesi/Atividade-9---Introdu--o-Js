@@ -53,11 +53,26 @@ while (i <= 10) {
  }
  */
 
+/*
+Questão 4
+console.log('Strings')
+
+    let texto = prompt('Digite sua frase');
+    function inverter(texto){
+        console.log(texto.split("").reverse().join(""));
+    }
+    inverter(texto);
+/*
+
+
  /*
  Questão 05
- 
+
  let text = prompt('Digite uma frase');
 function contarCaractere(text) {
  let length = text.length;}
 console.log(text.length)
-/*
+*/
+
+
+
