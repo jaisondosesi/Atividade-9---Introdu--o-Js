@@ -74,6 +74,13 @@ function contarCaractere(text) {
 console.log(text.length)
 */
 
-
-
-
+/*
+Questão 7
+console.log("Mensagem personalizada");
+let nome = prompt("Digite seu nome");
+let mensagem= ("Olá! ");
+function mensagemPersonalizada(nome,mensagem){
+    console.log(mensagem + nome);
+}
+mensagemPersonalizada(nome, mensagem);
+ /*
