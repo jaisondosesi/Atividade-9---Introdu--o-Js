@@ -1,6 +1,7 @@
 
 /*
 Questão - N1
+/*
 
 console.log('hello world');
 let numero = prompt('Digite seu número');
@@ -38,6 +39,7 @@ function calcular(num1, num2) {
     }
 calcular(n1, n2);
 */
+
 /*
 Questão N3
 /*
@@ -51,4 +53,11 @@ while (i <= 10) {
  }
  */
 
+ /*
+ Questão 05
  
+ let text = prompt('Digite uma frase');
+function contarCaractere(text) {
+ let length = text.length;}
+console.log(text.length)
+/*
