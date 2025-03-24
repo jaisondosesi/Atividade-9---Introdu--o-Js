@@ -83,4 +83,21 @@ function mensagemPersonalizada(nome,mensagem){
     console.log(mensagem + nome);
 }
 mensagemPersonalizada(nome, mensagem);
- /*
+ */
+
+/*
+const carro = {
+    marca: "Porsche",
+    modelo: "911 GT3 RS",
+    ano: 2020,
+    printModel: function () {
+        console.log("O modelo do carro é " + this.modelo)
+    }
+}
+
+carro.printModel()  
+*/
+
+
+
+
