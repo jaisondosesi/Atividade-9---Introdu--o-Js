@@ -137,6 +137,87 @@ function tabelation() {
 tabelation()
 */
 
+/*
+Questão 10
+function verificarPalindromo() {
+    let palavra = prompt("Qual palavra deseja saber se é um palindromo");
+    let palavracontra = palavra.split('').reverse().join('');
+    
+    if(palavra == palavracontra) {
+        console.log("Essa palavra é um palindromo");
+    } else {
+        console.log("Essa palavra não é um palindromo");
+    }
+}
+
+verificarPalindromo()
+*/
+
+/*
+Questão 11
+function verificarSinal() {
+    let num = prompt("Qual o numero que deseja verificar?")
+    if(num > 0){
+        console.log("O número é positivo")
+    } else if(num < 0) {
+        console.log("O número é negativo")
+    } else {
+        console.log("O número é zero")
+    }
+}
+
+verificarSinal()
+*/
+
+/*
+Questão 12
+function converterTemperatura() {
+    const temp = prompt("qual temperatura em celius deseja converter?")
+    let tempFaren = (temp*1.8)+32;
+    console.log("A temperatura" + temp, "em celsius, é igual a " +tempFaren," em Fahrenheit")
+}
+
+converterTemperatura()
+*/
+
+/*
+Questão 13
+let i13 = 1;
+let soma = 0;
+
+while (i <= 100) {
+  soma = i + soma;
+  i++;
+}
+
+console.log(soma);
+*/
+
+/*
+Questão 14
+const troca = prompt("escreva uma frase que tenha a palavra azul")
+
+function substituirPalavra() {
+  console.log(troca.replace(/Azul/g || /azul/g, "Vermelho"));
+}
+
+substituirPalavra();
+*/
+
+/*
+Questão 15
+let palav = prompt("Digite uma palavra");
+
+function verificarTamanho (palav) {
+  if(palav.length > 10) {
+    console.log("Tem mais de 10 caracteres aí");
+  } else {
+    console.log("Tem menos de 10 caracteres aí");
+  }
+}
+
+verificarTamanho ();
+*/
 
 
 
