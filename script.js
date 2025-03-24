@@ -219,6 +219,46 @@ function verificarTamanho (palav) {
 verificarTamanho ();
 */
 
+/*
+Questão 16
+let nome = prompt("Digite seu nome");
+const saudacao = "Bem-vindo(a)"
+
+function saudacao (nome, saudacao) {
+  console.log(saudacao, nome);
+}
+
+saudacao();
+*/
+
+/*
+Questão 17
+let nome = prompt("Digite seu nome");
+const saudacao = "Bem-vindo(a)"
+
+function saudacao (nome, saudacao) {
+  console.log(saudacao, nome);
+}
+
+saudacao();
+*/
+
+/*
+Questão 18
+let nota = prompt("Digite sua nota final");
+
+function verificarAprovacao (nota) {
+  if(nota >= 6){
+    console.log("Aprovado(a)");
+  } else {
+    console.log("Reprovado(a)");
+  }
+}
+  
+verificarAprovacao ();
+*/
+
+
 
 
 
