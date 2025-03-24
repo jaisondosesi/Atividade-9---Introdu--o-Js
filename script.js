@@ -86,6 +86,7 @@ mensagemPersonalizada(nome, mensagem);
  */
 
 /*
+Questão 6
 const carro = {
     marca: "Porsche",
     modelo: "911 GT3 RS",
@@ -97,6 +98,7 @@ const carro = {
 
 carro.printModel()  
 */
+
 
 
 
