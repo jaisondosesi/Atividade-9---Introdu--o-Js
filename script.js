@@ -258,7 +258,102 @@ function verificarAprovacao (nota) {
 verificarAprovacao ();
 */
 
+/*
+Questão 19
+let pares = [];
+let c = 0;
 
+for (let num = 0; num <= 30; num++) {
+  if(num % 2 == 0) {
+    pares[c] = num;
+    c++;
+  }
+}
 
+console.log("Números pares entre 0 e 30 " + pares);
+*/
+
+/*
+Questão 20
+function contarVogais() {
+    let palavra = prompt("Qual palavra deseja saber a quantidade de vogais?");
+    letras = palavra.split('');
+    let numVoga = 0;
+    for (let i = 0; i <= palavra.length; i++) {
+        if ((letras[i] == 'a') || (letras[i] == 'e') || (letras[i] == 'i') || (letras[i] == 'o') || (letras[i] == 'u')) {
+            numVoga++;
+        }
+    }
+    console.log("O número de vogais da palavra é: " + numVoga);
+}
+
+contarVogais()
+*/
+
+/*
+Questão 21
+let array = [1, 2, 3];
+
+function somarArray(){
+  console.log(array.reduce((partialSum, a) => partialSum + a, 0))
+}
+
+somarArray(array)
+*/
+
+/*
+Questão 22
+let numero = prompt("Qual o número?");
+
+function dobrarNumero(){
+  console.log(numero * 2);
+}
+
+dobrarNumero(numero);
+*/
+
+/*
+Questão 23
+let x = 1;
+
+function pares(x){
+  while (x <= 20){
+    x++;
+    if (x % 2 == 0){
+      console.log(x);
+    }
+  }
+}
+
+pares(x)
+*/
+
+/*
+Questão 24
+let minPalavra = prompt("Qual a palavra em letras minúsculas?");
+
+function capitalizar(){
+  console.log(String(minPalavra[0]).toUpperCase() + String(minPalavra).slice(1))
+}
+
+capitalizar(minPalavra)
+*/
+
+/*
+Questão 25
+let ano =prompt("Qual o ano?");
+
+function anoBissexto() {
+    if (ano % 4 == 0 && ano % 100 != 0){
+        console.log('O ano', ano, 'é bissexto');
+    }
+    else{
+        console.log('O ano', ano, 'não é bissexto');
+
+    }
+}
+
+anoBissexto(ano);
+*/
 
 
